@@ -1,0 +1,6 @@
+{
+  "name": "My Next Relationship",
+  "description": "Discover who your next relationship might be with an interactive live camera prediction filter.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
